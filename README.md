@@ -2,7 +2,7 @@
 
 Run **local LLM models on Google Colab** and access them remotely via API — ideal for lightweight, cost-effective development and testing using [Ollama](https://ollama.com/) and [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/).
 
-> ✅ Access your Colab-hosted LLM API from anywhere — even inside VS Code using the [ROO Code](https://marketplace.visualstudio.com/items?itemName=roo-ai.roo) extension!
+> ✅ Access your Colab-hosted LLM API from anywhere — even inside VS Code using the [ROO Code](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline) extension!
 
 ---
 
@@ -63,7 +63,7 @@ Follow these steps to get your local LLM running in Colab and accessible via pub
 
 ## 💡 Use with ROO Code (VS Code Extension)
 
-1. Install [ROO Code extension](https://marketplace.visualstudio.com/items?itemName=roo-ai.roo)
+1. Install [ROO Code extension](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline)
 2. Open extension settings
 3. Choose API Provider as **Ollama**
 4. Paste the public URL from Colab (e.g. `https://bold-sky-1234.trycloudflare.com`) **(Do not include `/` at the end of the link)**
