@@ -6,12 +6,6 @@ Run **local LLM models on Google Colab** and access them remotely via API — id
 
 ---
 
-## 🚀 Try it now
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/colab-llm/blob/main/colab-llm.ipynb)
-
----
-
 ## 🧩 Features
 
 - 🔥 Run advanced LLMs (like Qwen, LLaMA3, Mistral, DeepSeek) in Colab using [Ollama](https://ollama.com/)
