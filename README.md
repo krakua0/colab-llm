@@ -40,7 +40,6 @@ Follow these steps to get your local LLM running in Colab and accessible via pub
 
 1. **Import the `.ipynb` notebook into your Google Colab**  
    - Open [colab.research.google.com](https://colab.research.google.com) and upload the notebook.
-   - Or use the "Open in Colab" badge above.
 
 2. **Choose the runtime as `T4 GPU`**  
    - Go to `Runtime > Change runtime type` → select:
